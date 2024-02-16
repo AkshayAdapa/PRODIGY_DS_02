@@ -16,9 +16,13 @@ Overview
 In this analysis, we followed a systematic approach to understand the roller coaster dataset:
 
 Data Collection: The dataset was obtained and imported into Python using pandas.
+
 Data Cleaning: Preprocessing steps were applied to handle missing values, remove duplicates, and format data for analysis.
-Exploratory Data Analysis: Various visualization techniques, including bar plots, histograms, and heatmaps, were utilized to explore the dataset's characteristics and relationships between variables.
+
+Exploratory Data Analysis: Various visualization techniques, including bar plots, histograms, and heatmaps, 
+                           were utilized to explore the dataset's characteristics and relationships between variables.
+
 Insights and Findings: Key findings and insights derived from the analysis were documented to gain a deeper understanding of the roller coaster dataset.
 
- Finally analysed the data set and got the required structural information from the dataset
+Finally analysed the data set and got the required structural information from the dataset
 
